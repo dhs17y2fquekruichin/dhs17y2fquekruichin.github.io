@@ -1,3 +1,2 @@
 
-   body {    font-family: @import url("//fonts.googleapis.com/css?family=Sofia") 
-    font-size: 22px;    }
+  body {  font-family: 'Tangerine', serif;  font-size: 48px;  text-shadow: 4px 4px 4px #aaa;}
