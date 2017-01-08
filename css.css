@@ -7,6 +7,7 @@
 	font-size: 50px;
 	  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
 	  margin-top: 5px;
+	 text-decoration: underline;
     }
 h2 {
     font-family: 'Cabin Sketch', serif;
@@ -47,13 +48,13 @@ padding: 5px 5px 5px 5px;
 	}
 .pic{
 	float: right;
-	margin-right: 30px;
+	margin-right: 60px;
 }
 .title {
 		width: 400px;
 	padding: 5px 5px 5px 5px;
 	float: right;
 	margin-top: 10px;
-	margin-right: 10px;
+	margin-right: 40px;
 }
 	
