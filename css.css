@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/css?family=Pacifico|Amatic+SC:700|Cabin+Sketch');		
+@import url('http://fonts.googleapis.com/css?family=Pacifico|Architects+Daughter|Cabin+Sketch');		
  h1 {
     font-family: 'Pacifico', cursive;
     font-weight: 700;
@@ -20,9 +20,10 @@ h2 {
 	text-align: right;
     }
 p {
-    font-family: 'Amatic SC', serif;
+    font-family: 'Architects Daughter', serif;
     line-height: 23px;
     margin: 0 0 23px 0;
+	font-size: 28px;
     }
 div{
 	background-color: #ff4da6;
