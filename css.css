@@ -6,7 +6,7 @@
     text-align: center;
 	font-size: 50px;
 	  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
-	  margin-top: 0px;
+	  margin-top: 5px;
     }
 h2 {
     font-family: 'Cabin Sketch', serif;
@@ -53,5 +53,6 @@ padding: 5px 5px 5px 5px;
 	padding: 5px 5px 5px 5px;
 	float: right;
 	margin-top: 10px;
+	margin-right: 10px;
 }
 	
