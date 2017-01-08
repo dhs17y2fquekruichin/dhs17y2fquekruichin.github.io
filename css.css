@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/css?family=Pacifico|Amatic+SC:700|Grand+Hotel');		
+@import url('http://fonts.googleapis.com/css?family=Pacifico|Amatic+SC:700|Cabin+Sketch');		
  h1 {
     font-family: 'Pacifico', cursive;
     font-weight: 700;
@@ -9,7 +9,7 @@
 	  margin-top: 7px;
     }
 h2 {
-    font-family: 'Grand Hotel', serif;
+    font-family: 'Cabin Sketch', serif;
     font-weight: normal;
     text-transform: uppercase;
     line-height: 23px;
