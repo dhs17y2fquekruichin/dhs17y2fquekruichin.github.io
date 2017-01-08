@@ -22,10 +22,11 @@ h2 {
 p {
     font-family: 'Architects Daughter', serif;
     line-height: 23px;
-    margin: 0 0 23px 0;
-	font-size: 23px;
+   	font-size: 23px;
 	text-align: right;
-	width: 100px;
+	width: 300px;
+	margin-right: 50px;
+	margin-top: 150px;
     }
 div{
 	background-color: #ff4da6;
