@@ -6,10 +6,15 @@ h1 {
 	font-weight: 500;
 	line-height: 26.4px;
 }
-h2 { color: #2CA4B0; font-family: 'Oleo Script'; font-size: 24px; font-weight: normal; line-height: 32px; margin: 0 0 18px; text-shadow: 1px 0 0 #fff; }
+h2 { color: #2CA4B0; font-family: Oleo Script; 
+	font-size: 24px; 
+	font-weight: normal; 
+	line-height: 32px;
+	margin: 0 0 18px; 
+	text-shadow: 1px 0 0 #fff; }
 
-p { color: #333; font-family: 'Original Surfer'; font-size: 16px; line-height: 28px; margin: 0 0 24px; }
+p { color: #333; font-family: Original Surfer; font-size: 16px; line-height: 28px; margin: 0 0 24px; }
 
-a { color: #d04764; font-family: 'Original Surfer'; }
+a { color: #d04764; font-family: Original Surfer; }
 
 a:hover { text-decoration: underline }
