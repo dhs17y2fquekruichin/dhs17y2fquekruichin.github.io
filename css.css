@@ -41,11 +41,14 @@ padding: 5px 5px 5px 5px;
 	height: 350px;
 	}
 .pic{
-	margin-left:10px;
+	margin-left: 40px;
+	margin-top: 20px;
+	
 }
 .title {
 		width: 400px;
 	padding: 5px 5px 5px 5px;
 	float: right;
+	margin-top: 10px;
 }
 	
