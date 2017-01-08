@@ -39,11 +39,12 @@ padding: 5px 5px 5px 5px;
     border-radius: 50%;
 	width: 250px;
 	height: 350px;
-	margin-left: 150px;
-	margin-top: 100px;
-}
+	}
+.pic{
+	margin-left:10px;
 .title {
 	margin-right: 0px;
+	margin-left: 700px;
 	width: 400px;
 	padding: 5px 5px 5px 5px;
 }
