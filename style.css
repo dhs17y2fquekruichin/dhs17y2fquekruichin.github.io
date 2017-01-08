@@ -1,5 +1,11 @@
-h1 { color: #d04764; font-family: 'Lobster'; font-size: 36px; font-weight: normal; line-height: 48px; margin: 0 0 18px; text-shadow: 1px 0 0 #fff; }
-
+h1 {
+	font-family: Copperplate, Copperplate Gothic Light, fantasy;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
 h2 { color: #2CA4B0; font-family: 'Oleo Script'; font-size: 24px; font-weight: normal; line-height: 32px; margin: 0 0 18px; text-shadow: 1px 0 0 #fff; }
 
 p { color: #333; font-family: 'Original Surfer'; font-size: 16px; line-height: 28px; margin: 0 0 24px; }
