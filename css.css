@@ -41,7 +41,7 @@ margin: 0px;
 width: 75%;
 margin: auto;
 background-color: #f4f4d7;
-height: 60%;
+height: 100%;
 padding: 5px 5px 5px 5px;
 }
 .img-circle {
@@ -63,8 +63,8 @@ padding: 5px 5px 5px 5px;
 	margin-right: 40px;
 }
 	.Interests{
-				height: 30%;
 		background-color: #f4f4d7;
-	
+	margin-top: 500px;
+		padding: 10px 10px 10px 10px;
 				margin: auto;
 }
