@@ -22,14 +22,16 @@ p {
     font-family: 'Calligraffitti';
 	font-size: 23px;
 	    }
-.Stuff{
-	margin-top: 100px;
+.div{ 
+	margin: auto;
+	font-family: 'Cabin Sketch';
+	color: brown;
 }
 h3{
 	font-family: 'Caveat Brush';
 	font-size: 30px;
 	color: #009999;
-	margin-top: 200px;
+	
 }
 .begin{
 	background-color: #ff4da6;
