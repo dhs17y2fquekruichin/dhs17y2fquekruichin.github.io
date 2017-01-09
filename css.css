@@ -23,7 +23,7 @@ p {
 	font-size: 23px;
 	    }
 .div{ 
-	margin: auto;
+	float: center;
 	font-family: 'Cabin Sketch';
 	color: brown;
 }
