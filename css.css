@@ -16,7 +16,7 @@ h2 {
     line-height: 23px;
     letter-spacing: 2px;
 	font-size: 30px;
-	color: brown;
+	color: brown; text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);	
        }
 p {
     font-family: 'Calligraffitti';
@@ -37,13 +37,12 @@ p {
 h3{
 	font-family: 'Caveat Brush';
 	font-size: 30px;
-	color: #009999;
-	
+	color: #009999; text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05); 	
 }
 h4{
 	font-family: 'Cedarville Cursive';
 	font-size: 30px;
-	color: red;
+	color: red; text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
 }
 .begin{
 	background-color: #ff4da6;
