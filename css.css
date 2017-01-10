@@ -49,7 +49,7 @@ margin: 0px;
 width: 75%;
 margin: auto;
 background-color: #f4f4d7;
-height: 700px;
+height: 750px;
 padding: 10px 10px 10px 10px;
 }
 .img-circle {
@@ -77,6 +77,6 @@ padding: 10px 10px 10px 10px;
 	
 .end{
 	background-color: #ff4da6;
-	width: 75%;
-	height: 100px;
+	width: 100%;
+	height: 50px;
 }
