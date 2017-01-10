@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/css?family=Pacifico|Calligraffitti|Cabin+Sketch|Caveat+Brush|Cedarville+Cursive');		
+@import url('http://fonts.googleapis.com/css?family=Pacifico|Calligraffitti|Cabin+Sketch|Caveat+Brush|Cedarville+Cursive|Homemade+Apple');		
  h1 {
     font-family: 'Pacifico', cursive;
     font-weight: 700;
@@ -22,6 +22,11 @@ p {
     font-family: 'Calligraffitti';
 	font-size: 23px;
 	    }
+.name{
+	margin: auto;
+	font-size: 18px;
+	font-family: 'Homemade Apple';
+}
 .code{ 
 	font-family: 'Calligraffitti'; 
 	font-size: 23px;
